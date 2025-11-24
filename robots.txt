@@ -1,0 +1,5 @@
+# robots.txt — block all crawlers from indexing this site
+User-agent: *
+Disallow: /
+
+# This site is for personal or testing use. Not for public indexing.
